@@ -3,15 +3,15 @@ import Head from "next/head";
 import Image from "next/image";
 import Layout from "@/components/Layout";
 import Footer from "@/components/Footer";
-import whoami from "/home/govindkrishna/Projects/Portfolio/public/images/profile/whoami.png";
-import profilepic from "/home/govindkrishna/Projects/Portfolio/public/images/profile/main.png";
+import whoami from "/home/govind/Projects/Portfolio/public/images/profile/whoami.png";
+import profilepic from "/home/govind/Projects/Portfolio/public/images/profile/main.png";
 import AnimatedText from "@/components/AnimatedText";
-import design from "/home/govindkrishna/Projects/Portfolio/public/images/designing.png";
-import camera from "/home/govindkrishna/Projects/Portfolio/public/images/profile/cam.png";
-import web from "/home/govindkrishna/Projects/Portfolio/public/images/profile/web.png";
+import design from "/home/govind/Projects/Portfolio/public/images/designing.png";
+import camera from "/home/govind/Projects/Portfolio/public/images/profile/cam.png";
+import web from "/home/govind/Projects/Portfolio/public/images/profile/web.png";
 
 
-import game from "/home/govindkrishna/Projects/Portfolio/public/images/profile/game.png";
+import game from "/home/govind/Projects/Portfolio/public/images/profile/game.png";
 import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });

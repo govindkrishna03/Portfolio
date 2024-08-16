@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import footerimage from "/home/govindkrishna/Projects/Portfolio/public/images/profile/footer.png";
+import footerimage from "/home/govind/Projects/Portfolio/public/images/profile/footer.png";
 
 const Footer = () => {
   return (

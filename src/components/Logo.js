@@ -8,10 +8,10 @@ const colors = ["#121212", "rgba(131, 58, 180, 1)", "rgba(253, 29, 29, 1)", "rgb
 
 const Logo = () => {
   return (
-    <div>
+    <div className='sm:px-5' >
       <MotionLink
         href="/"
-        className="w-11 h-11 mt-[-10px] text-xl font-bold bg-dark text-light flex items-center justify-center rounded-full"
+        className="hidden w-11 h-11 mt-[-10px] text-xl  font-bold bg-dark text-light  items-center justify-center rounded-full sm:flex "
         whileHover={{
           backgroundColor: colors,
           transition: {
