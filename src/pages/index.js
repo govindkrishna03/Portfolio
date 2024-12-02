@@ -57,7 +57,7 @@ export default function Home() {
       I thrive on crafting intuitive and visually appealing user interfaces, ensuring seamless user experiences. Beyond the digital world, you'll often find me immersed in the art of drawing intricate designs, fine-tuning photos with my editing skills, and strumming the guitar to create soulful melodies.
 
       As a member of AmFOSS (Amrita Free and Open Source Software), I actively contribute to the open-source community, blending my creative flair with technology. Let's merge the worlds of design, art, and technology to create captivating and immersive experiences together.
-    </p>
+    </p>x
   </div>
 
   <div className="w-full sm:h-[400px] h-[1200px] overflow-y-hidden">
