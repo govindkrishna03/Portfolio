@@ -3,12 +3,12 @@ import Head from "next/head";
 import Image from "next/image";
 import Layout from "@/components/Layout";
 import Footer from "@/components/Footer";
-import whoami from "./public/images/profile/whoami.png";
-import profilepic from "./public/images/profile/main.png";
+import whoami from "public/images/profile/whoami.png";
+import profilepic from "public/images/profile/main.png";
 import AnimatedText from "@/components/AnimatedText";
-import design from "./public/images/designing.png";
-import camera from "./public/images/profile/cam.png";
-import web from "./public/images/profile/web.png";
+import design from "public/images/designing.png";
+import camera from "public/images/profile/cam.png";
+import web from "public/images/profile/web.png";
 
 
 import game from "/home/govind/Projects/Portfolio/public/images/profile/game.png";
