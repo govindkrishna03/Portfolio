@@ -11,7 +11,7 @@ import camera from "public/images/profile/cam.png";
 import web from "public/images/profile/web.png";
 
 
-import game from "/home/govind/Projects/Portfolio/public/images/profile/game.png";
+import game from "public/images/profile/game.png";
 import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
